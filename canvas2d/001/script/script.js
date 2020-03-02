@@ -41,7 +41,7 @@
      */
     function render(){
         // canvas 全体を黒く塗りつぶすため塗り色のスタイルを設定する
-        ctx.fillStyle = '#000000'; // または 'black' でもよい
+        ctx.fillStyle = '#664566'; // または 'black' でもよい
 
         // canvas 全体を塗りつぶす
         // @param {number} x - 塗りつぶす矩形の左上角の X 座標
